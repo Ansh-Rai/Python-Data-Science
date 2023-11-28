@@ -1,2 +1,2 @@
-# Python_and_DSA
+# Python Data Science  
 Notes and Code of Dsa and Python
